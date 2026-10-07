@@ -1,0 +1,90 @@
+{
+  "version": "3.0.0",
+  "name": "CyberScope",
+  "author": "Bryan Madrid",
+  "institution": "Universidad Andrés Bello",
+  "status": "Prototipo para piloto supervisado",
+  "features": [
+    "Vendor",
+    "Platform",
+    "Product_normalized",
+    "risk_family_6"
+  ],
+  "severity_order": [
+    "low",
+    "low/medium",
+    "medium",
+    "medium/high",
+    "high",
+    "critical"
+  ],
+  "risk_families": [
+    "Code Execution & Injection",
+    "Identity, Access & Persistence",
+    "Memory & Software Safety",
+    "Reconnaissance & Attack Operations",
+    "Data Collection & Exfiltration",
+    "Impact & Availability"
+  ],
+  "dataset_rows": 1984,
+  "dataset_columns": 26,
+  "selection": {
+    "candidate": "Logistic_Regression|ROS=False|v=1",
+    "features": [
+      "Vendor",
+      "Platform",
+      "Product_normalized",
+      "risk_family_6"
+    ],
+    "criterio": "F1 macro 6 medio en ventanas temporales purgadas de desarrollo",
+    "cv_f1_macro_6": 0.48526787273767785,
+    "test_start": "2024-01-10",
+    "n_dev": 1520,
+    "n_test": 397,
+    "scope": "contextual experimental, con proxy de procedencia documentado"
+  },
+  "family_selection": {
+    "candidate": "BernoulliNB|ROS=True|v=1",
+    "features": [
+      "risk_family_6"
+    ],
+    "test_start": "2024-01-10",
+    "criterio": "media F1 macro 6 en validacion temporal purgada sobre desarrollo",
+    "n_dev": 1520,
+    "n_test": 397,
+    "cv_f1_macro_6": 0.2879071322594945
+  },
+  "evaluation": [
+    {
+      "escenario": "Familia",
+      "modelo": "BernoulliNB|ROS=True|v=1",
+      "accuracy": 0.5365239294710328,
+      "precision_macro_6": 0.4621146512299254,
+      "recall_macro_6": 0.4298855652320248,
+      "f1_macro_6": 0.3688494541490696,
+      "f1_weighted": 0.5088348046978305,
+      "top3_accuracy": 0.9596977329974812,
+      "log_loss": 1.1244146723776305
+    },
+    {
+      "escenario": "Contextual",
+      "modelo": "Logistic_Regression|ROS=False|v=1",
+      "accuracy": 0.6675062972292192,
+      "precision_macro_6": 0.5841929462619118,
+      "recall_macro_6": 0.5061550759392486,
+      "f1_macro_6": 0.5287973680038053,
+      "f1_weighted": 0.6558904869870577,
+      "top3_accuracy": 0.9924433249370276,
+      "log_loss": 0.8245471429369906
+    }
+  ],
+  "taxonomy": "Seis macrofamilias; reglas independientes de Severity_clean",
+  "scope": "Estimación experimental de etiquetas de referencia de CISA y MITRE.",
+  "limits": [
+    "La etiqueta no equivale automáticamente a CVSS ni al riesgo del negocio.",
+    "La clase low/medium no tiene soporte en el test temporal.",
+    "Las variables de contexto pueden reflejar la procedencia de los registros.",
+    "Las fechas disponibles no se verificaron como fechas de incidentes.",
+    "La taxonomía y la equivalencia de etiquetas requieren revisión de un especialista."
+  ]
+}

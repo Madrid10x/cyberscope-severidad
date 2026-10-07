@@ -1,0 +1,3 @@
+﻿candidate,fold,error
+Linear_SVC_temporal|ROS=False|v=1,1,La calibración SVC requiere seis clases en cada entrenamiento interno.
+Linear_SVC_temporal|ROS=True|v=1,1,La calibración SVC requiere seis clases en cada entrenamiento interno.

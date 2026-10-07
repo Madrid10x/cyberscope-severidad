@@ -1,0 +1,13 @@
+﻿case_id,Vendor,Platform,Product_normalized,risk_family_6
+CA01,__NO_INFORMADO__,saas,__NO_INFORMADO__,Impact & Availability
+CA02,__NO_INFORMADO__,esxi,__NO_INFORMADO__,"Identity, Access & Persistence"
+CA03,nice,__NO_INFORMADO__,linear emerge e3-series,Code Execution & Injection
+CA04,gladinet,__NO_INFORMADO__,centrestack,"Identity, Access & Persistence"
+CA05,__NO_INFORMADO__,"esxi, linux, network devices, windows, macos",__NO_INFORMADO__,Reconnaissance & Attack Operations
+CA06,roundcube,__NO_INFORMADO__,webmail,Code Execution & Injection
+CA07,__NO_INFORMADO__,pre,__NO_INFORMADO__,Reconnaissance & Attack Operations
+CA08,microsoft,__NO_INFORMADO__,windows,Memory & Software Safety
+CE01,microsoft,__NO_INFORMADO__,streaming service,Memory & Software Safety
+CE02,nuuo,__NO_INFORMADO__,nvrmini2 devices,"Identity, Access & Persistence"
+CE03,__NO_INFORMADO__,"linux, network devices, windows, macos",__NO_INFORMADO__,Reconnaissance & Attack Operations
+CE04,kingsoft,__NO_INFORMADO__,wps office,Data Collection & Exfiltration

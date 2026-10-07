@@ -1,0 +1,11 @@
+{
+  "version": "3.0.0",
+  "sha256": {
+    "modelo_contextual_exploratorio.joblib": "2017a0dd17ee5b87e1862811cb050de1cdef3c45a1ab12df2db30ecd2fa29bd0",
+    "modelo_severidad_evaluado.joblib": "f97f0df2de7227d54050c847d32572f9ae62d0f2a5c3493a5e991865245474ba",
+    "dataset_macroclases_6_v2.csv": "63a388f7ebcd86b42d5ce653e53a9b475c30a587396b26b569af2fc6e0ae67de",
+    "contexto_seleccion_previa_al_test.json": "8909b4d6549403fbeeb39448118d0719ee6c7593edc37ef2328555de38bf2897",
+    "seleccion_previa_al_test.json": "2b412aaa8b4bf865195178151fbe05f9a8495e0a7d443cc2ad10fd7c77f4a459",
+    "resumen_modelos_finales_completo.csv": "18e82402b8250f50457c17c4d4cd1ec84fcb3679fedf969d7367751b516b4e34"
+  }
+}

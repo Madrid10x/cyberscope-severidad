@@ -1,0 +1,53 @@
+:root { --navy:#142c42; --teal:#087e82; --muted:#63758a; --line:#dde7ee; }
+.stApp { background:#f4f7fa; color:var(--navy); }
+[data-testid="stAppViewBlockContainer"] { max-width:1370px; padding-top:2rem; padding-bottom:2.5rem; }
+[data-testid="stSidebar"] { background:#132b40; border-right:1px solid #294358; }
+[data-testid="stSidebar"] * { color:#e6f0f6; }
+[data-testid="stSidebar"] .stCaption p { color:#acc0cd; }
+[data-testid="stSidebar"] [data-testid="stRadio"] label { padding:.2rem 0; }
+[data-testid="stSidebar"] [data-testid="stImage"] { max-width:100px; margin:1rem 0 .5rem; }
+.brand { display:flex; align-items:center; gap:12px; margin-bottom:1.5rem; }
+.brand-mark { width:42px; height:48px; }
+.brand-name { font-size:25px; font-weight:800; letter-spacing:-.8px; line-height:1.1; }
+.brand-tag { font-size:10px; color:#afc7d5; text-transform:uppercase; letter-spacing:1.8px; margin-top:5px; }
+.eyebrow { color:var(--teal); font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:1.6px; margin-bottom:10px; }
+.page-top { display:flex; justify-content:space-between; gap:18px; align-items:center; margin-bottom:1.8rem; }
+.page-top h1 { font-size:2.2rem; letter-spacing:-1px; line-height:1.16; margin:0; }
+.page-top p { font-size:15px; color:var(--muted); margin:.55rem 0 0; max-width:760px; }
+.version-pill { border:1px solid #b7dbd9; color:#086f73; background:#e4f4f0; font-size:11px; font-weight:700; border-radius:20px; padding:8px 12px; white-space:nowrap; }
+.hero { background:#142c42; border-radius:24px; padding:40px; margin-bottom:1.4rem; overflow:hidden; position:relative; }
+.hero:after { content:""; position:absolute; width:310px; height:310px; border:60px solid rgba(33,168,172,.12); border-radius:50%; right:-70px; top:-100px; pointer-events:none; }
+.hero .eyebrow { color:#67d8d0; }
+.hero h2 { color:white; font-size:3rem; line-height:1.1; max-width:650px; letter-spacing:-1.4px; margin:0 0 18px; }
+.hero p { color:#c7d7e2; font-size:16px; line-height:1.7; max-width:700px; margin:0; }
+.hero-tags { display:flex; flex-wrap:wrap; gap:8px; margin-top:24px; }
+.hero-tags span { border:1px solid #405d72; border-radius:18px; color:#e3f5f5; font-size:11px; padding:6px 11px; }
+[data-testid="stMetric"] { background:white; border:1px solid var(--line); border-radius:16px; padding:18px; }
+[data-testid="stMetric"] label { font-size:12px; color:var(--muted); }
+[data-testid="stMetricValue"] { font-size:1.75rem; color:var(--navy); font-weight:750; }
+[data-testid="stVerticalBlockBorderWrapper"] > div { border-color:var(--line); border-radius:16px; background:white; }
+.feature-card { height:100%; background:white; border:1px solid var(--line); border-radius:16px; padding:22px; min-height:166px; }
+.feature-card .step { color:#087e82; font-size:12px; font-weight:800; margin-bottom:12px; }
+.feature-card h3 { margin:0 0 10px; font-size:18px; color:var(--navy); }
+.feature-card p { margin:0; font-size:14px; line-height:1.6; color:var(--muted); }
+.result-panel { background:#142c42; border-radius:20px; padding:28px; margin:12px 0 20px; }
+.result-panel .eyebrow { color:#7edbd4; }
+.result-panel h2 { color:white; font-size:36px; margin:0 0 6px; }
+.result-panel p { color:#c5d7e3; margin:0; font-size:14px; }
+.rule-note { background:#ecf5f6; border-left:3px solid #128b8f; border-radius:0 9px 9px 0; padding:14px 18px; color:#355366; font-size:13px; line-height:1.6; margin:16px 0; }
+.footer { border-top:1px solid var(--line); padding-top:18px; margin-top:42px; color:var(--muted); font-size:12px; line-height:1.7; }
+h2,h3 { letter-spacing:-.3px; }
+.stButton button, .stDownloadButton button { border-radius:9px; font-weight:600; min-height:42px; }
+button[kind="primary"] { background:#087e82; border-color:#087e82; }
+.stTabs [data-baseweb="tab-list"] { gap:20px; background:transparent; }
+.stTabs [data-baseweb="tab"] { font-weight:600; }
+@media(max-width:760px) {
+  [data-testid="stAppViewBlockContainer"] { padding:1.2rem 1rem 2rem; }
+  .hero { padding:26px 22px; border-radius:16px; }
+  .hero h2 { font-size:2.1rem; }
+  .page-top { align-items:flex-start; flex-direction:column; }
+  .page-top h1 { font-size:1.85rem; }
+  .version-pill { padding:5px 9px; }
+  .feature-card { min-height:0; margin-bottom:8px; }
+  [data-testid="stMetricValue"] { font-size:1.4rem; }
+}

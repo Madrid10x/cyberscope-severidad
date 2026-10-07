@@ -1,0 +1,24 @@
+[
+  {
+    "escenario": "Familia",
+    "modelo": "BernoulliNB|ROS=True|v=1",
+    "accuracy": 0.5365239294710328,
+    "precision_macro_6": 0.4621146512299254,
+    "recall_macro_6": 0.4298855652320248,
+    "f1_macro_6": 0.3688494541490696,
+    "f1_weighted": 0.5088348046978305,
+    "top3_accuracy": 0.9596977329974812,
+    "log_loss": 1.1244146723776305
+  },
+  {
+    "escenario": "Contextual",
+    "modelo": "Logistic_Regression|ROS=False|v=1",
+    "accuracy": 0.6675062972292192,
+    "precision_macro_6": 0.5841929462619118,
+    "recall_macro_6": 0.5061550759392486,
+    "f1_macro_6": 0.5287973680038053,
+    "f1_weighted": 0.6558904869870577,
+    "top3_accuracy": 0.9924433249370276,
+    "log_loss": 0.8245471429369906
+  }
+]

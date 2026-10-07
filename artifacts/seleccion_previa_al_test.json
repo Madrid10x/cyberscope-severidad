@@ -1,0 +1,11 @@
+{
+  "candidate": "BernoulliNB|ROS=True|v=1",
+  "features": [
+    "risk_family_6"
+  ],
+  "test_start": "2024-01-10",
+  "criterio": "media F1 macro 6 en validacion temporal purgada sobre desarrollo",
+  "n_dev": 1520,
+  "n_test": 397,
+  "cv_f1_macro_6": 0.2879071322594945
+}

@@ -1,0 +1,36 @@
+﻿dataset,variable,tipo,valores_no_nulos,valores_unicos_no_nulos,valor_mas_frecuente,frecuencia_maxima
+original,Sector,object,2096,299,microsoft,340
+original,Product,object,1417,571,nan,679
+original,Attack_or_Vuln,object,2096,1784,microsoft win32k privilege escalation vulnerability,24
+original,Incident_Date,object,2096,496,03/11/2021,287
+original,Severity,object,2096,6,high,954
+original,Source,object,2096,2,cisa,1417
+original,attack_type_clean,object,2096,640,generic vulnerability,286
+original,attack_subtype_clean,object,2096,641,generic vulnerability,286
+original,Severity_clean,object,2096,6,high,954
+reconstruido,Sector,object,1984,299,microsoft,300
+reconstruido,Product,object,1305,571,nan,679
+reconstruido,Attack_or_Vuln,object,1984,1784,microsoft win32k privilege escalation vulnerability,15
+reconstruido,Incident_Date,object,1984,496,03/11/2021,245
+reconstruido,Severity,object,1984,6,high,859
+reconstruido,Source,object,1984,2,cisa,1305
+reconstruido,attack_type_clean,object,1984,640,generic vulnerability,277
+reconstruido,attack_subtype_clean,object,1984,641,generic vulnerability,277
+reconstruido,Severity_clean,object,1984,6,high,859
+reconstruido,original_row,int64,1984,1984,1948,1
+reconstruido,record_id,object,1984,1984,01197f5bb0b55f59c3fd,1
+reconstruido,entity_id,object,1984,1784,8d34dc759203c076820a,15
+reconstruido,exact_duplicate,bool,1984,1,False,1984
+reconstruido,risk_family_6,object,1942,6,"Identity, Access & Persistence",548
+reconstruido,mapping_rule,object,1984,234,cisa_tipo:remote code execution,154
+reconstruido,mapping_confidence,object,1984,3,alta,1659
+reconstruido,mapping_status,object,1984,2,asignada,1942
+reconstruido,Date_available,datetime64[ns],1984,496,2021-11-03 00:00:00,245
+reconstruido,date_semantics,object,1984,1,fecha_fuente_no_verificada_como_incidente,1984
+reconstruido,entity_type,object,1984,2,registro_vulnerabilidad,1305
+reconstruido,Vendor,object,1305,232,nan,679
+reconstruido,Platform,object,679,68,nan,1305
+reconstruido,Product_normalized,object,1984,572,__NO_INFORMADO__,679
+reconstruido,Technology_context,object,1984,299,microsoft,300
+reconstruido,y,int64,1984,6,4,859
+reconstruido,input_invalid,bool,1984,1,False,1984

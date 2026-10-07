@@ -1,0 +1,15 @@
+{
+  "candidate": "Logistic_Regression|ROS=False|v=1",
+  "features": [
+    "Vendor",
+    "Platform",
+    "Product_normalized",
+    "risk_family_6"
+  ],
+  "criterio": "F1 macro 6 medio en ventanas temporales purgadas de desarrollo",
+  "cv_f1_macro_6": 0.48526787273767785,
+  "test_start": "2024-01-10",
+  "n_dev": 1520,
+  "n_test": 397,
+  "scope": "contextual experimental, con proxy de procedencia documentado"
+}

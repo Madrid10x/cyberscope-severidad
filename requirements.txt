@@ -1,0 +1,13 @@
+streamlit==1.65.0
+plotly==7.1.0
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+joblib==1.5.3
+lime==0.2.0.1
+matplotlib==3.10.8
+reportlab==4.4.9
+tzdata==2026.4
+Pillow==12.3.0

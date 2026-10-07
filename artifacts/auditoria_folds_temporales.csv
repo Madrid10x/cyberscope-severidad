@@ -1,0 +1,5 @@
+﻿fold,n_train,n_val,train_fin,val_inicio,val_fin,train_low,val_low,train_low/medium,val_low/medium,train_medium,val_medium,train_medium/high,val_medium/high,train_high,val_high,train_critical,val_critical
+1,564,328,2021-10-12,2021-11-03,2022-02-25,53,0,41,0,111,91,285,23,48,214,26,0
+2,868,238,2022-02-25,2022-03-03,2022-05-16,53,0,41,1,200,68,308,12,240,157,26,0
+3,1088,238,2022-05-16,2022-05-23,2023-03-30,53,1,42,1,264,78,320,33,383,125,26,0
+4,1333,152,2023-03-30,2023-04-07,2024-01-08,54,1,43,1,340,50,351,24,519,75,26,1
