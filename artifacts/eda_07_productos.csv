@@ -1,0 +1,572 @@
+﻿valor,registros,porcentaje
+windows,143,10.957854406130268
+multiple products,59,4.521072796934866
+chromium v8,32,2.4521072796934864
+flash player,27,2.0689655172413794
+internet explorer,27,2.0689655172413794
+kernel,25,1.9157088122605364
+office,22,1.685823754789272
+win32k,16,1.2260536398467432
+acrobat and reader,13,0.9961685823754789
+coldfusion,13,0.9961685823754789
+zimbra collaboration suite (zcs),12,0.9195402298850575
+exchange server,12,0.9195402298850575
+mobile devices,11,0.842911877394636
+"ios, ipados, and macos",10,0.7662835249042146
+weblogic server,10,0.7662835249042146
+netweaver,10,0.7662835249042146
+pan-os,10,0.7662835249042146
+multiple chipsets,9,0.6896551724137931
+vcenter server,9,0.6896551724137931
+ios,9,0.6896551724137931
+ios and ios xe software,8,0.6130268199233716
+ios software,8,0.6130268199233716
+fortios,8,0.6130268199233716
+pulse connect secure,7,0.5363984674329502
+firefox and thunderbird,6,0.45977011494252873
+junos os,6,0.45977011494252873
+manageengine,6,0.45977011494252873
+multiple routers,6,0.45977011494252873
+adaptive security appliance (asa) and firepower threat defense (ftd),6,0.45977011494252873
+reader and acrobat,6,0.45977011494252873
+mali graphics processing unit (gpu),6,0.45977011494252873
+tomcat,5,0.3831417624521073
+webmail,5,0.3831417624521073
+fusion middleware,5,0.3831417624521073
+java se,5,0.3831417624521073
+pixel,5,0.3831417624521073
+sharepoint,5,0.3831417624521073
+endpoint manager mobile (epmm),4,0.3065134099616858
+word,4,0.3065134099616858
+chromium,4,0.3065134099616858
+ios xr,4,0.3065134099616858
+firefox,4,0.3065134099616858
+fortios and fortiproxy,4,0.3065134099616858
+roundcube webmail,4,0.3065134099616858
+macos,4,0.3065134099616858
+adaptive security appliance (asa),4,0.3065134099616858
+netscaler adc and netscaler gateway,4,0.3065134099616858
+ios and ipados,4,0.3065134099616858
+multiple devices,4,0.3065134099616858
+"ios, ipados, and watchos",4,0.3065134099616858
+multiple firewalls,4,0.3065134099616858
+whatsapp,3,0.22988505747126436
+serv-u,3,0.22988505747126436
+"application delivery controller (adc), gateway, and sd-wan wanop appliance",3,0.22988505747126436
+backup exec agent,3,0.22988505747126436
+struts,3,0.22988505747126436
+data risk manager,3,0.22988505747126436
+sonicwall email security,3,0.22988505747126436
+fta,3,0.22988505747126436
+craft cms,3,0.22988505747126436
+java runtime environment (jre),3,0.22988505747126436
+winrar,3,0.22988505747126436
+silverlight,3,0.22988505747126436
+exim,3,0.22988505747126436
+mivoice connect,3,0.22988505747126436
+excel,3,0.22988505747126436
+crushftp,3,0.22988505747126436
+salt,3,0.22988505747126436
+photo station,3,0.22988505747126436
+ios software and cisco ios xe software,3,0.22988505747126436
+sonicos,3,0.22988505747126436
+confluence data center and server,3,0.22988505747126436
+ios and macos,3,0.22988505747126436
+cloud services appliance (csa),3,0.22988505747126436
+framework,3,0.22988505747126436
+virtual system/server administrator (vsa),3,0.22988505747126436
+esxi,3,0.22988505747126436
+expedition,3,0.22988505747126436
+tm sgnl,3,0.22988505747126436
+http server,3,0.22988505747126436
+backup & replication,3,0.22988505747126436
+imagemagick,3,0.22988505747126436
+sense,3,0.22988505747126436
+ofbiz,3,0.22988505747126436
+network attached storage (nas),3,0.22988505747126436
+ios and ios xe,3,0.22988505747126436
+pt30x-sdi/ndi cameras,2,0.1532567049808429
+chromium mojo,2,0.1532567049808429
+cyberpanel,2,0.1532567049808429
+log4j2,2,0.1532567049808429
+frontend,2,0.1532567049808429
+endpoint manager (epm),2,0.1532567049808429
+anyconnect secure,2,0.1532567049808429
+archive_tar,2,0.1532567049808429
+commerce and magento open source,2,0.1532567049808429
+jasperreports,2,0.1532567049808429
+activemq,2,0.1532567049808429
+os x,2,0.1532567049808429
+"utah, vancouver, and washington dc now platform",2,0.1532567049808429
+struts 1,2,0.1532567049808429
+whatsup gold,2,0.1532567049808429
+gigabit passive optical network (gpon) routers,2,0.1532567049808429
+dir-859 router,2,0.1532567049808429
+mali gpu kernel driver,2,0.1532567049808429
+firewall,2,0.1532567049808429
+teamcity,2,0.1532567049808429
+php,2,0.1532567049808429
+smbv1 server,2,0.1532567049808429
+active directory,2,0.1532567049808429
+big-ip configuration utility,2,0.1532567049808429
+user interface (ui) for asp.net ajax,2,0.1532567049808429
+core,2,0.1532567049808429
+elasticsearch,2,0.1532567049808429
+multiple network-attached storage (nas) devices,2,0.1532567049808429
+sd-wan and netscaler,2,0.1532567049808429
+agile product lifecycle management (plm),2,0.1532567049808429
+routeros,2,0.1532567049808429
+ruby on rails,2,0.1532567049808429
+minio,2,0.1532567049808429
+jira server and data center,2,0.1532567049808429
+sharepoint server,2,0.1532567049808429
+cobalt strike,2,0.1532567049808429
+connect secure and policy secure,2,0.1532567049808429
+graphics device interface (gdi),2,0.1532567049808429
+xml core services,2,0.1532567049808429
+screenconnect,2,0.1532567049808429
+flash player and air,2,0.1532567049808429
+powerpoint,2,0.1532567049808429
+jboss,2,0.1532567049808429
+multiple nas devices,2,0.1532567049808429
+polkit,2,0.1532567049808429
+ios xe software,2,0.1532567049808429
+chromium skia,2,0.1532567049808429
+secure firewall adaptive security appliance and secure firewall threat defense,2,0.1532567049808429
+drupal core,2,0.1532567049808429
+net framework,2,0.1532567049808429
+n-central,2,0.1532567049808429
+session recording,2,0.1532567049808429
+prtg network monitor,2,0.1532567049808429
+nagios xi,2,0.1532567049808429
+big-ip,2,0.1532567049808429
+dotnetnuke (dnn),2,0.1532567049808429
+open management infrastructure (omi),2,0.1532567049808429
+veracore,2,0.1532567049808429
+defender,2,0.1532567049808429
+chromium intents,2,0.1532567049808429
+sma100 appliances,2,0.1532567049808429
+solr,2,0.1532567049808429
+unraid,2,0.1532567049808429
+"connect secure, policy secure, and zta gateways",2,0.1532567049808429
+dcs-2530l and dcs-2670l devices,2,0.1532567049808429
+netscaler adc and gateway,2,0.1532567049808429
+sma100,2,0.1532567049808429
+web help desk,2,0.1532567049808429
+privileged remote access (pra) and remote support (rs),2,0.1532567049808429
+edge and internet explorer,2,0.1532567049808429
+eyesofnetwork,2,0.1532567049808429
+pentaho business analytics (ba) server,2,0.1532567049808429
+multiple vigor routers,2,0.1532567049808429
+hyperflex hx,2,0.1532567049808429
+confluence server and data center,2,0.1532567049808429
+android kernel,2,0.1532567049808429
+apex one and officescan,2,0.1532567049808429
+solaris and zettabyte file system (zfs),1,0.07662835249042145
+compact,1,0.07662835249042145
+auditor,1,0.07662835249042145
+outlook,1,0.07662835249042145
+erlang/otp,1,0.07662835249042145
+p660hn-t1a routers,1,0.07662835249042145
+megarac spx,1,0.07662835249042145
+dwl-2600ap access point,1,0.07662835249042145
+"firefox, firefox esr, and thunderbird",1,0.07662835249042145
+wazuh server,1,0.07662835249042145
+service location protocol (slp),1,0.07662835249042145
+cisco ios xe web ui,1,0.07662835249042145
+ios xe web ui,1,0.07662835249042145
+wordpad,1,0.07662835249042145
+http/2,1,0.07662835249042145
+magicinfo 9 server,1,0.07662835249042145
+skype for business,1,0.07662835249042145
+ws_ftp server,1,0.07662835249042145
+windows cng key isolation service,1,0.07662835249042145
+routers,1,0.07662835249042145
+chromium libvpx,1,0.07662835249042145
+tools,1,0.07662835249042145
+apex one and worry-free business security,1,0.07662835249042145
+emg2926 routers,1,0.07662835249042145
+sdk,1,0.07662835249042145
+ignition,1,0.07662835249042145
+adaptive security appliance and firepower threat defense,1,0.07662835249042145
+chromium webp,1,0.07662835249042145
+streaming service proxy,1,0.07662835249042145
+rocketmq,1,0.07662835249042145
+openfire,1,0.07662835249042145
+sentry,1,0.07662835249042145
+content collaboration,1,0.07662835249042145
+net core and visual studio,1,0.07662835249042145
+jboss richfaces framework,1,0.07662835249042145
+auuploader,1,0.07662835249042145
+aspera faspex,1,0.07662835249042145
+apex one,1,0.07662835249042145
+cacti,1,0.07662835249042145
+goanywhere mft,1,0.07662835249042145
+terramaster os,1,0.07662835249042145
+ethernet diagnostics driver for windows,1,0.07662835249042145
+git,1,0.07662835249042145
+e-business suite,1,0.07662835249042145
+netscaler,1,0.07662835249042145
+freepbx,1,0.07662835249042145
+email server,1,0.07662835249042145
+application delivery controller (adc) and gateway,1,0.07662835249042145
+tl-wa855re,1,0.07662835249042145
+tl-wr841n,1,0.07662835249042145
+chromium gpu,1,0.07662835249042145
+runtime,1,0.07662835249042145
+windows com+ event system service,1,0.07662835249042145
+bitbucket server and data center,1,0.07662835249042145
+apex one and apex one as a service,1,0.07662835249042145
+acdb audio driver,1,0.07662835249042145
+vmware esxi and horizon daas,1,0.07662835249042145
+fortios and fortiadc,1,0.07662835249042145
+control web panel,1,0.07662835249042145
+aria operations for networks,1,0.07662835249042145
+fortios and fortiproxy ssl-vpn,1,0.07662835249042145
+moveit transfer,1,0.07662835249042145
+email security gateway (esg) appliance,1,0.07662835249042145
+multi-router looking glass (mrlg),1,0.07662835249042145
+"ios, ios xr, and ios xe",1,0.07662835249042145
+jenkins user interface (ui),1,0.07662835249042145
+java se and jrockit,1,0.07662835249042145
+archer ax21,1,0.07662835249042145
+phpmailer,1,0.07662835249042145
+mf/ng,1,0.07662835249042145
+spark,1,0.07662835249042145
+fortiweb,1,0.07662835249042145
+novi survey,1,0.07662835249042145
+sysaid on-prem,1,0.07662835249042145
+ng/mf,1,0.07662835249042145
+identity services engine,1,0.07662835249042145
+samba,1,0.07662835249042145
+chromium network service,1,0.07662835249042145
+media server,1,0.07662835249042145
+xstream,1,0.07662835249042145
+glpi,1,0.07662835249042145
+dnr-322l,1,0.07662835249042145
+wing ftp server,1,0.07662835249042145
+dante discovery,1,0.07662835249042145
+cloud services appliance,1,0.07662835249042145
+office outlook,1,0.07662835249042145
+publisher,1,0.07662835249042145
+wps office,1,0.07662835249042145
+vigorconnect,1,0.07662835249042145
+director,1,0.07662835249042145
+ip camera firmware,1,0.07662835249042145
+jenkins command line interface (cli),1,0.07662835249042145
+android os,1,0.07662835249042145
+project,1,0.07662835249042145
+vigor routers,1,0.07662835249042145
+cyber infrastructure (aci),1,0.07662835249042145
+cityworks,1,0.07662835249042145
+authy,1,0.07662835249042145
+geoserver,1,0.07662835249042145
+http file server,1,0.07662835249042145
+dsl cpe devices,1,0.07662835249042145
+nx-os,1,0.07662835249042145
+jai-ext,1,0.07662835249042145
+telerik report server,1,0.07662835249042145
+quantum security gateways,1,0.07662835249042145
+viewer,1,0.07662835249042145
+7-zip,1,0.07662835249042145
+multiple ip cameras,1,0.07662835249042145
+rlc-410w ip camera,1,0.07662835249042145
+nvrmini devices,1,0.07662835249042145
+nvrmini2 devices,1,0.07662835249042145
+projectsend,1,0.07662835249042145
+proself,1,0.07662835249042145
+ag/vxag arrayos,1,0.07662835249042145
+kemp loadmaster,1,0.07662835249042145
+metabase,1,0.07662835249042145
+usaherds,1,0.07662835249042145
+micollab,1,0.07662835249042145
+xg firewall,1,0.07662835249042145
+controllers,1,0.07662835249042145
+fortimanager,1,0.07662835249042145
+sl1,1,0.07662835249042145
+jquery,1,0.07662835249042145
+commerce cloud,1,0.07662835249042145
+dir-820 router,1,0.07662835249042145
+sma1000 appliances,1,0.07662835249042145
+virtual traffic manager,1,0.07662835249042145
+cyberoamos,1,0.07662835249042145
+adf faces,1,0.07662835249042145
+sql server,1,0.07662835249042145
+hugegraph-server,1,0.07662835249042145
+nhttpd,1,0.07662835249042145
+smart licensing utility,1,0.07662835249042145
+centrestack,1,0.07662835249042145
+active! mail,1,0.07662835249042145
+web server,1,0.07662835249042145
+superset,1,0.07662835249042145
+joomla!,1,0.07662835249042145
+brocade fabric os,1,0.07662835249042145
+dsl-2750b devices,1,0.07662835249042145
+spreadsheet::parseexcel,1,0.07662835249042145
+chromium webrtc,1,0.07662835249042145
+yii,1,0.07662835249042145
+simplehelp,1,0.07662835249042145
+viostor nvr,1,0.07662835249042145
+"ae1021, ae1021pe",1,0.07662835249042145
+vision plc and hmi,1,0.07662835249042145
+langflow,1,0.07662835249042145
+internet information services (iis),1,0.07662835249042145
+output messenger,1,0.07662835249042145
+owncloud graphapi,1,0.07662835249042145
+gnu c library,1,0.07662835249042145
+web appliance,1,0.07662835249042145
+biotime,1,0.07662835249042145
+sysaid server,1,0.07662835249042145
+command center,1,0.07662835249042145
+power pages,1,0.07662835249042145
+flink,1,0.07662835249042145
+mirth connect,1,0.07662835249042145
+dir-605 router,1,0.07662835249042145
+partner center,1,0.07662835249042145
+dir-600 router,1,0.07662835249042145
+dwm core library,1,0.07662835249042145
+small business rv series routers,1,0.07662835249042145
+gitlab ce/ee,1,0.07662835249042145
+esxi and workstation,1,0.07662835249042145
+smartscreen prompt,1,0.07662835249042145
+laravel framework,1,0.07662835249042145
+changed-files github action,1,0.07662835249042145
+backup and replication,1,0.07662835249042145
+endpoint manager cloud service appliance (epm csa),1,0.07662835249042145
+linear emerge e3-series,1,0.07662835249042145
+ic-7100 ip camera,1,0.07662835249042145
+forticlient ems,1,0.07662835249042145
+sureline,1,0.07662835249042145
+streaming service,1,0.07662835249042145
+action-setup github action,1,0.07662835249042145
+"connect secure, policy secure, and neurons",1,0.07662835249042145
+cms and experience platform (xp),1,0.07662835249042145
+endpoint manager mobile (epmm) and mobileiron core,1,0.07662835249042145
+"esxi, workstation, and fusion",1,0.07662835249042145
+goahead,1,0.07662835249042145
+nexus repository manager,1,0.07662835249042145
+jungle software development kit (sdk),1,0.07662835249042145
+manageengine servicedesk plus (sdp) / supportcenter plus,1,0.07662835249042145
+apache,1,0.07662835249042145
+manageengine servicedesk plus (sdp),1,0.07662835249042145
+"snapdragon auto, snapdragon compute, snapdragon connectivity, snapdragon consumer iot, snapdragon industrial iot, snapdragon mobile, snapdragon voice & music, snapdragon wearables",1,0.07662835249042145
+exiftool,1,0.07662835249042145
+exchange,1,0.07662835249042145
+orion,1,0.07662835249042145
+snap creek duplicator plugin,1,0.07662835249042145
+sfos,1,0.07662835249042145
+desktop community edition,1,0.07662835249042145
+delmia apriso,1,0.07662835249042145
+chromium indexed db api,1,0.07662835249042145
+enhanced multimedia router (emr),1,0.07662835249042145
+confluence server and data server,1,0.07662835249042145
+community and enterprise editions,1,0.07662835249042145
+mobileiron multiple products,1,0.07662835249042145
+workspace application and receiver for windows,1,0.07662835249042145
+ap-router sdk,1,0.07662835249042145
+mscomctl.ocx,1,0.07662835249042145
+wf2419 devices,1,0.07662835249042145
+crowd and crowd data center,1,0.07662835249042145
+cisco ip phones,1,0.07662835249042145
+shiro,1,0.07662835249042145
+dir-825 r1 devices,1,0.07662835249042145
+hyper-v remotefx,1,0.07662835249042145
+dir-645 router,1,0.07662835249042145
+ucm6200,1,0.07662835249042145
+bourne-again shell (bash),1,0.07662835249042145
+"active management technology (amt), small business technology (sbt), and standard manageability",1,0.07662835249042145
+sma 100 appliances,1,0.07662835249042145
+struts 2,1,0.07662835249042145
+aviatrix controller,1,0.07662835249042145
+airflow,1,0.07662835249042145
+october cms,1,0.07662835249042145
+vrealize operations manager api,1,0.07662835249042145
+airflow's experimental api,1,0.07662835249042145
+system information library for node.js,1,0.07662835249042145
+intelligence enterprise edition,1,0.07662835249042145
+desktop central,1,0.07662835249042145
+primefaces application,1,0.07662835249042145
+chrome media,1,0.07662835249042145
+security cameras web server,1,0.07662835249042145
+kibana,1,0.07662835249042145
+websphere application server and server hypervisor edition,1,0.07662835249042145
+"warp, ipvpn, and mpvpn software",1,0.07662835249042145
+mail transfer agent (mta),1,0.07662835249042145
+winverifytrust function,1,0.07662835249042145
+mongo-express,1,0.07662835249042145
+jboss seam 2,1,0.07662835249042145
+adminlte,1,0.07662835249042145
+jboss application server,1,0.07662835249042145
+fuel cms,1,0.07662835249042145
+big-ip traffic management microkernel,1,0.07662835249042145
+"apex one, apex one as a service, and worry-free business security",1,0.07662835249042145
+virtualization manager,1,0.07662835249042145
+officescan,1,0.07662835249042145
+thinkphp,1,0.07662835249042145
+sslvpn sma100,1,0.07662835249042145
+enhanced cryptographic provider,1,0.07662835249042145
+"apex one, officescan and worry-free business security agents",1,0.07662835249042145
+nexus repository,1,0.07662835249042145
+access management (am),1,0.07662835249042145
+netlogon,1,0.07662835249042145
+chromium blink,1,0.07662835249042145
+remote desktop services,1,0.07662835249042145
+ac1900 router ac15 model,1,0.07662835249042145
+"apex one, officescan, and worry-free business security",1,0.07662835249042145
+telerik ui for asp.net ajax,1,0.07662835249042145
+chrome for android ui,1,0.07662835249042145
+chrome,1,0.07662835249042145
+big-ip and big-iq centralized management,1,0.07662835249042145
+jgs516pe devices,1,0.07662835249042145
+freetype,1,0.07662835249042145
+rt-ax55 routers,1,0.07662835249042145
+sip phones,1,0.07662835249042145
+toolbox browser,1,0.07662835249042145
+solution manager,1,0.07662835249042145
+symantec messaging gateway,1,0.07662835249042145
+billquick web suite,1,0.07662835249042145
+trusted firmware,1,0.07662835249042145
+ac11 router,1,0.07662835249042145
+liferay portal,1,0.07662835249042145
+nonecms,1,0.07662835249042145
+rconfig,1,0.07662835249042145
+device management,1,0.07662835249042145
+pulse connect secure and pulse policy secure,1,0.07662835249042145
+file manager plugin,1,0.07662835249042145
+vbulletin,1,0.07662835249042145
+buffalo firmware,1,0.07662835249042145
+customer relationship management (crm),1,0.07662835249042145
+small business rv320 and rv325 routers,1,0.07662835249042145
+chrome freetype,1,0.07662835249042145
+desktop,1,0.07662835249042145
+micro focus access manager,1,0.07662835249042145
+chromium webgl,1,0.07662835249042145
+"net framework, sharepoint, visual studio",1,0.07662835249042145
+nvms-1000,1,0.07662835249042145
+social warfare plugin,1,0.07662835249042145
+planning analytics,1,0.07662835249042145
+office and wordpad,1,0.07662835249042145
+storefront server,1,0.07662835249042145
+dns-320 device,1,0.07662835249042145
+chromium portals,1,0.07662835249042145
+playsms,1,0.07662835249042145
+mcafee total protection (mtp),1,0.07662835249042145
+cameras and network video recorder (nvr),1,0.07662835249042145
+asp.net ajax and sitefinity,1,0.07662835249042145
+"ac7, ac9, and ac10 routers",1,0.07662835249042145
+mshtml,1,0.07662835249042145
+operation bridge reporter (obr),1,0.07662835249042145
+vtscada (formerly vts),1,0.07662835249042145
+airos,1,0.07662835249042145
+web studio,1,0.07662835249042145
+u.motion builder,1,0.07662835249042145
+omnipcx enterprise,1,0.07662835249042145
+dns-320 storage device,1,0.07662835249042145
+workspace one access and identity manager,1,0.07662835249042145
+firebox and xtm,1,0.07662835249042145
+qnap network-attached storage (nas),1,0.07662835249042145
+checkbox survey,1,0.07662835249042145
+sudo,1,0.07662835249042145
+http protocol stack,1,0.07662835249042145
+spring framework,1,0.07662835249042145
+smbv3,1,0.07662835249042145
+dbutil driver,1,0.07662835249042145
+confluence server,1,0.07662835249042145
+ancillary function driver (afd.sys),1,0.07662835249042145
+client-server run-time subsystem (csrss),1,0.07662835249042145
+edge,1,0.07662835249042145
+directx graphics kernel (dxgkrnl),1,0.07662835249042145
+debian-specific redis servers,1,0.07662835249042145
+secure remote access (sra),1,0.07662835249042145
+dir-610 devices,1,0.07662835249042145
+multiple archer devices,1,0.07662835249042145
+matrix project plugin,1,0.07662835249042145
+webmin,1,0.07662835249042145
+kace system management appliance,1,0.07662835249042145
+apex central,1,0.07662835249042145
+dir-820l,1,0.07662835249042145
+dir-300 router,1,0.07662835249042145
+dopsoft 2,1,0.07662835249042145
+couchdb,1,0.07662835249042145
+grafana,1,0.07662835249042145
+"ios, macos, watchos",1,0.07662835249042145
+webrtc,1,0.07662835249042145
+apisix,1,0.07662835249042145
+spring cloud,1,0.07662835249042145
+dotcms,1,0.07662835249042145
+unrar,1,0.07662835249042145
+confluence,1,0.07662835249042145
+chromium popupblocker,1,0.07662835249042145
+script security plugin,1,0.07662835249042145
+"acrobat and reader, flash player",1,0.07662835249042145
+qts,1,0.07662835249042145
+confluence server/data center,1,0.07662835249042145
+input method editor (ime) japanese,1,0.07662835249042145
+infosphere biginsights,1,0.07662835249042145
+solaris,1,0.07662835249042145
+ghostscript,1,0.07662835249042145
+internet explorer and edge,1,0.07662835249042145
+chrome webaudio,1,0.07662835249042145
+chrome blink,1,0.07662835249042145
+update notification manager,1,0.07662835249042145
+webkitgtk,1,0.07662835249042145
+spring cloud gateway,1,0.07662835249042145
+openssl,1,0.07662835249042145
+rv series routers,1,0.07662835249042145
+wnr2000v5 router,1,0.07662835249042145
+task scheduler,1,0.07662835249042145
+vcenter server and cloud foundation,1,0.07662835249042145
+wireless router dgn2200,1,0.07662835249042145
+blazeds,1,0.07662835249042145
+exim internet mailer,1,0.07662835249042145
+atm font driver,1,0.07662835249042145
+catalyst 4500 series switches and cisco catalyst 4500-x series switches,1,0.07662835249042145
+reader,1,0.07662835249042145
+forefront threat management gateway (tmg),1,0.07662835249042145
+catalyst 6800 series switches,1,0.07662835249042145
+"ios, xr, and xe software",1,0.07662835249042145
+"small business rv160, rv260, rv340, and rv345 series routers",1,0.07662835249042145
+n1a1 nas,1,0.07662835249042145
+malware protection engine,1,0.07662835249042145
+ipv6,1,0.07662835249042145
+virtualbox,1,0.07662835249042145
+chakracore scripting engine,1,0.07662835249042145
+small business rv320 and rv325 dual gigabit wan vpn routers,1,0.07662835249042145
+simatic cp,1,0.07662835249042145
+zimbra collaborate suite (zcs),1,0.07662835249042145
+chromium animation,1,0.07662835249042145
+graphics component,1,0.07662835249042145
+phpunit,1,0.07662835249042145
+http.sys,1,0.07662835249042145
+jenkins stapler web framework,1,0.07662835249042145
+smbv1,1,0.07662835249042145
+java se jdk and jre,1,0.07662835249042145
+sharefile,1,0.07662835249042145
+dcs-930l devices,1,0.07662835249042145
+firebox and xtm appliances,1,0.07662835249042145
+dsl-2760u,1,0.07662835249042145
+fastcgi process manager (fpm),1,0.07662835249042145
+"micollab, mivoice business express",1,0.07662835249042145
+spring cloud configuration (config) server,1,0.07662835249042145
+"netscaler sd-wan enterprise, cloudbridge virtual wan, and xenmobile server",1,0.07662835249042145
+sd-wan edge,1,0.07662835249042145
+secure access control system (acs),1,0.07662835249042145
+internet explorer scripting engine,1,0.07662835249042145
+spring data commons,1,0.07662835249042145
+wireless access point (wap) devices,1,0.07662835249042145
+sg utm,1,0.07662835249042145
+kerberos key distribution center (kdc),1,0.07662835249042145
+kylin,1,0.07662835249042145
+"procurve manager (pcm), pcm+, identity driven manager (idm), and application lifecycle management",1,0.07662835249042145
+phpmyadmin,1,0.07662835249042145
+xp,1,0.07662835249042145
+openview network node manager,1,0.07662835249042145
+xperience,1,0.07662835249042145
+opensmtpd,1,0.07662835249042145
+prime data center network manager (dcnm),1,0.07662835249042145
+unified data protection (udp),1,0.07662835249042145
+vpn routers,1,0.07662835249042145
+bi publisher (formerly xml publisher),1,0.07662835249042145
+helpdesk,1,0.07662835249042145
+http file server (hfs),1,0.07662835249042145
+dgn2200 devices,1,0.07662835249042145
