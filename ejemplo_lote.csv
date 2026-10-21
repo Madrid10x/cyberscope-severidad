@@ -1,0 +1,13 @@
+﻿case_id,Vendor,Platform,Product_normalized,risk_family_6
+A01,microsoft,,windows,Memory & Software Safety
+A02,palo alto networks,,pan-os,"Identity, Access & Persistence"
+A03,,"esxi, linux, network devices, windows, macos",__NO_INFORMADO__,Reconnaissance & Attack Operations
+A04,microsoft,,windows,"Identity, Access & Persistence"
+A05,qualcomm,,multiple chipsets,Memory & Software Safety
+A06,,"linux, windows, macos",__NO_INFORMADO__,Reconnaissance & Attack Operations
+A07,nice,,linear emerge e3-series,Code Execution & Injection
+A08,cyberpersons,,cyberpanel,"Identity, Access & Persistence"
+E01,microsoft,,windows,"Identity, Access & Persistence"
+E02,simplehelp,,simplehelp,Data Collection & Exfiltration
+E03,,"linux, network devices, windows, macos",__NO_INFORMADO__,Reconnaissance & Attack Operations
+E04,draytek,,vigorconnect,Data Collection & Exfiltration

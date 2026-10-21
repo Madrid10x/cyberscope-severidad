@@ -1,0 +1,641 @@
+﻿valor,registros,porcentaje
+generic vulnerability,286,13.645038167938932
+remote_code_execution,196,9.351145038167939
+injection,166,7.919847328244275
+privilege escalation,114,5.438931297709924
+authentication issues,106,5.057251908396947
+out-of-bounds write,90,4.293893129770993
+use-after-free,84,4.00763358778626
+memory corruption,80,3.816793893129771
+path_traversal,62,2.9580152671755724
+insecure_deserialization,54,2.5763358778625953
+memory_corruption,52,2.480916030534351
+unspecified,49,2.3377862595419847
+xss,35,1.6698473282442747
+type confusion,34,1.6221374045801527
+information disclosure,21,1.001908396946565
+dos,19,0.9064885496183206
+phishing,11,0.5248091603053435
+xxe,7,0.33396946564885494
+authorization issues,6,0.2862595419847328
+csrf,4,0.19083969465648856
+obfuscated files or information: junk code insertion,1,0.04770992366412214
+obfuscated files or information: lnk icon smuggling,1,0.04770992366412214
+obfuscated files or information: polymorphic code,1,0.04770992366412214
+obfuscated files or information: svg smuggling,1,0.04770992366412214
+obfuscated files or information: software packing,1,0.04770992366412214
+obfuscated files or information: steganography,1,0.04770992366412214
+obfuscated files or information: stripped payloads,1,0.04770992366412214
+obtain capabilities,1,0.04770992366412214
+obtain capabilities: artificial intelligence,1,0.04770992366412214
+obtain capabilities: code signing certificates,1,0.04770992366412214
+obtain capabilities: digital certificates,1,0.04770992366412214
+obtain capabilities: exploits,1,0.04770992366412214
+obtain capabilities: malware,1,0.04770992366412214
+obtain capabilities: tool,1,0.04770992366412214
+obfuscated files or information: html smuggling,1,0.04770992366412214
+obtain capabilities: vulnerabilities,1,0.04770992366412214
+office application startup: add-ins,1,0.04770992366412214
+obfuscated files or information: indicator removal from tools,1,0.04770992366412214
+non-application layer protocol,1,0.04770992366412214
+os credential dumping,1,0.04770992366412214
+os credential dumping: /etc/passwd and /etc/shadow,1,0.04770992366412214
+os credential dumping: cached domain credentials,1,0.04770992366412214
+os credential dumping: dcsync,1,0.04770992366412214
+os credential dumping: lsa secrets,1,0.04770992366412214
+os credential dumping: lsass memory,1,0.04770992366412214
+os credential dumping: ntds,1,0.04770992366412214
+os credential dumping: proc filesystem,1,0.04770992366412214
+office application startup,1,0.04770992366412214
+obfuscated files or information,1,0.04770992366412214
+obfuscated files or information: binary padding,1,0.04770992366412214
+obfuscated files or information: command obfuscation,1,0.04770992366412214
+obfuscated files or information: compile after delivery,1,0.04770992366412214
+obfuscated files or information: compression,1,0.04770992366412214
+obfuscated files or information: dynamic api resolution,1,0.04770992366412214
+obfuscated files or information: embedded payloads,1,0.04770992366412214
+obfuscated files or information: encrypted/encoded file,1,0.04770992366412214
+obfuscated files or information: fileless storage,1,0.04770992366412214
+os credential dumping: security account manager,1,0.04770992366412214
+protocol tunneling,1,0.04770992366412214
+proxy,1,0.04770992366412214
+proxy: domain fronting,1,0.04770992366412214
+proxy: external proxy,1,0.04770992366412214
+proxy: internal proxy,1,0.04770992366412214
+proxy: multi-hop proxy,1,0.04770992366412214
+query registry,1,0.04770992366412214
+reflective code loading,1,0.04770992366412214
+non-standard port,1,0.04770992366412214
+remote access tools: ide tunneling,1,0.04770992366412214
+remote access tools: remote access hardware,1,0.04770992366412214
+remote access tools: remote desktop software,1,0.04770992366412214
+remote service session hijacking,1,0.04770992366412214
+remote service session hijacking: rdp hijacking,1,0.04770992366412214
+remote service session hijacking: ssh hijacking,1,0.04770992366412214
+remote services,1,0.04770992366412214
+remote services: cloud services,1,0.04770992366412214
+remote services: distributed component object model,1,0.04770992366412214
+remote access tools,1,0.04770992366412214
+office application startup: office template macros,1,0.04770992366412214
+office application startup: office test,1,0.04770992366412214
+office application startup: outlook forms,1,0.04770992366412214
+office application startup: outlook home page,1,0.04770992366412214
+office application startup: outlook rules,1,0.04770992366412214
+password policy discovery,1,0.04770992366412214
+peripheral device discovery,1,0.04770992366412214
+permission groups discovery,1,0.04770992366412214
+permission groups discovery: cloud groups,1,0.04770992366412214
+process discovery,1,0.04770992366412214
+permission groups discovery: local groups,1,0.04770992366412214
+plist file modification,1,0.04770992366412214
+power settings,1,0.04770992366412214
+pre-os boot,1,0.04770992366412214
+pre-os boot: bootkit,1,0.04770992366412214
+pre-os boot: component firmware,1,0.04770992366412214
+pre-os boot: rommonkit,1,0.04770992366412214
+pre-os boot: system firmware,1,0.04770992366412214
+pre-os boot: tftp boot,1,0.04770992366412214
+permission groups discovery: domain groups,1,0.04770992366412214
+indicator removal: file deletion,1,0.04770992366412214
+indicator removal: network share connection removal,1,0.04770992366412214
+indicator removal: relocate malware,1,0.04770992366412214
+indicator removal: timestomp,1,0.04770992366412214
+indirect command execution,1,0.04770992366412214
+ingress tool transfer,1,0.04770992366412214
+inhibit system recovery,1,0.04770992366412214
+input capture,1,0.04770992366412214
+remote services: direct cloud vm connections,1,0.04770992366412214
+input capture: gui input capture,1,0.04770992366412214
+input capture: keylogging,1,0.04770992366412214
+input capture: web portal capture,1,0.04770992366412214
+inter-process communication,1,0.04770992366412214
+inter-process communication: component object model,1,0.04770992366412214
+inter-process communication: dynamic data exchange,1,0.04770992366412214
+inter-process communication: xpc services,1,0.04770992366412214
+lateral tool transfer,1,0.04770992366412214
+log enumeration,1,0.04770992366412214
+input capture: credential api hooking,1,0.04770992366412214
+impair defenses: disable windows event logging,1,0.04770992366412214
+impair defenses: disable or modify cloud logs,1,0.04770992366412214
+impair defenses: disable or modify linux audit system,1,0.04770992366412214
+impair defenses: disable or modify system firewall,1,0.04770992366412214
+impair defenses: disable or modify tools,1,0.04770992366412214
+impair defenses: downgrade attack,1,0.04770992366412214
+impair defenses: impair command history logging,1,0.04770992366412214
+impair defenses: indicator blocking,1,0.04770992366412214
+indicator removal: clear windows event logs,1,0.04770992366412214
+impair defenses: spoof security alerting,1,0.04770992366412214
+impersonation,1,0.04770992366412214
+implant internal image,1,0.04770992366412214
+indicator removal,1,0.04770992366412214
+indicator removal: clear command history,1,0.04770992366412214
+indicator removal: clear linux or mac system logs,1,0.04770992366412214
+indicator removal: clear mailbox data,1,0.04770992366412214
+indicator removal: clear network connection history and configurations,1,0.04770992366412214
+indicator removal: clear persistence,1,0.04770992366412214
+impair defenses: safe mode boot,1,0.04770992366412214
+modify cloud compute infrastructure,1,0.04770992366412214
+modify cloud compute infrastructure: create cloud instance,1,0.04770992366412214
+modify cloud compute infrastructure: create snapshot,1,0.04770992366412214
+modify cloud compute infrastructure: delete cloud instance,1,0.04770992366412214
+modify cloud compute infrastructure: modify cloud compute configurations,1,0.04770992366412214
+modify cloud compute infrastructure: revert cloud instance,1,0.04770992366412214
+modify registry,1,0.04770992366412214
+modify system image,1,0.04770992366412214
+masquerading,1,0.04770992366412214
+modify system image: patch system image,1,0.04770992366412214
+multi-factor authentication request generation,1,0.04770992366412214
+multi-stage channels,1,0.04770992366412214
+native api,1,0.04770992366412214
+network boundary bridging,1,0.04770992366412214
+network boundary bridging: network address translation traversal,1,0.04770992366412214
+network service discovery,1,0.04770992366412214
+network share discovery,1,0.04770992366412214
+network sniffing,1,0.04770992366412214
+modify system image: downgrade system image,1,0.04770992366412214
+masquerading: break process trees,1,0.04770992366412214
+masquerading: double file extension,1,0.04770992366412214
+masquerading: invalid code signature,1,0.04770992366412214
+masquerading: masquerade account name,1,0.04770992366412214
+masquerading: masquerade file type,1,0.04770992366412214
+masquerading: masquerade task or service,1,0.04770992366412214
+masquerading: overwrite process arguments,1,0.04770992366412214
+masquerading: rename legitimate utilities,1,0.04770992366412214
+masquerading: right-to-left override,1,0.04770992366412214
+modify authentication process: reversible encryption,1,0.04770992366412214
+modify authentication process,1,0.04770992366412214
+modify authentication process: conditional access policies,1,0.04770992366412214
+modify authentication process: domain controller authentication,1,0.04770992366412214
+modify authentication process: hybrid identity,1,0.04770992366412214
+modify authentication process: multi-factor authentication,1,0.04770992366412214
+modify authentication process: network device authentication,1,0.04770992366412214
+modify authentication process: network provider dll,1,0.04770992366412214
+modify authentication process: password filter dll,1,0.04770992366412214
+modify authentication process: pluggable authentication modules,1,0.04770992366412214
+masquerading: space after filename,1,0.04770992366412214
+system service discovery,1,0.04770992366412214
+system services,1,0.04770992366412214
+system services: launchctl,1,0.04770992366412214
+system services: service execution,1,0.04770992366412214
+system services: systemctl,1,0.04770992366412214
+system shutdown/reboot,1,0.04770992366412214
+system time discovery,1,0.04770992366412214
+taint shared content,1,0.04770992366412214
+impair defenses: disable or modify cloud firewall,1,0.04770992366412214
+traffic signaling: port knocking,1,0.04770992366412214
+traffic signaling: socket filters,1,0.04770992366412214
+transfer data to cloud account,1,0.04770992366412214
+trusted developer utilities proxy execution,1,0.04770992366412214
+trusted developer utilities proxy execution: clickonce,1,0.04770992366412214
+trusted developer utilities proxy execution: jamplus,1,0.04770992366412214
+trusted developer utilities proxy execution: msbuild,1,0.04770992366412214
+trusted relationship,1,0.04770992366412214
+unsecured credentials,1,0.04770992366412214
+traffic signaling,1,0.04770992366412214
+system binary proxy execution: mavinject,1,0.04770992366412214
+system binary proxy execution: mshta,1,0.04770992366412214
+system binary proxy execution: msiexec,1,0.04770992366412214
+system binary proxy execution: odbcconf,1,0.04770992366412214
+system binary proxy execution: regsvcs/regasm,1,0.04770992366412214
+system binary proxy execution: regsvr32,1,0.04770992366412214
+system binary proxy execution: rundll32,1,0.04770992366412214
+system binary proxy execution: verclsid,1,0.04770992366412214
+system script proxy execution: syncappvpublishingserver,1,0.04770992366412214
+system location discovery,1,0.04770992366412214
+system location discovery: system language discovery,1,0.04770992366412214
+system network configuration discovery,1,0.04770992366412214
+system network configuration discovery: internet connection discovery,1,0.04770992366412214
+system network configuration discovery: wi-fi discovery,1,0.04770992366412214
+system network connections discovery,1,0.04770992366412214
+system owner/user discovery,1,0.04770992366412214
+system script proxy execution,1,0.04770992366412214
+system script proxy execution: pubprn,1,0.04770992366412214
+system information discovery,1,0.04770992366412214
+valid accounts: default accounts,1,0.04770992366412214
+valid accounts: domain accounts,1,0.04770992366412214
+valid accounts: local accounts,1,0.04770992366412214
+video capture,1,0.04770992366412214
+virtual machine discovery,1,0.04770992366412214
+virtualization/sandbox evasion,1,0.04770992366412214
+virtualization/sandbox evasion: system checks,1,0.04770992366412214
+virtualization/sandbox evasion: time based evasion,1,0.04770992366412214
+unsecured credentials: bash history,1,0.04770992366412214
+weaken encryption,1,0.04770992366412214
+weaken encryption: disable crypto hardware,1,0.04770992366412214
+weaken encryption: reduce key space,1,0.04770992366412214
+web service,1,0.04770992366412214
+web service: bidirectional communication,1,0.04770992366412214
+web service: dead drop resolver,1,0.04770992366412214
+web service: one-way communication,1,0.04770992366412214
+wi-fi networks,1,0.04770992366412214
+xsl script processing,1,0.04770992366412214
+virtualization/sandbox evasion: user activity based checks,1,0.04770992366412214
+unsecured credentials: chat messages,1,0.04770992366412214
+unsecured credentials: cloud instance metadata api,1,0.04770992366412214
+unsecured credentials: container api,1,0.04770992366412214
+unsecured credentials: credentials in files,1,0.04770992366412214
+unsecured credentials: credentials in registry,1,0.04770992366412214
+unsecured credentials: group policy preferences,1,0.04770992366412214
+unsecured credentials: private keys,1,0.04770992366412214
+unused/unsupported cloud regions,1,0.04770992366412214
+use alternate authentication material,1,0.04770992366412214
+valid accounts: cloud accounts,1,0.04770992366412214
+use alternate authentication material: pass the hash,1,0.04770992366412214
+use alternate authentication material: pass the ticket,1,0.04770992366412214
+use alternate authentication material: web session cookie,1,0.04770992366412214
+user execution,1,0.04770992366412214
+user execution: malicious copy and paste,1,0.04770992366412214
+user execution: malicious file,1,0.04770992366412214
+user execution: malicious image,1,0.04770992366412214
+user execution: malicious link,1,0.04770992366412214
+valid accounts,1,0.04770992366412214
+use alternate authentication material: application access token,1,0.04770992366412214
+search open technical databases: digital certificates,1,0.04770992366412214
+search open technical databases: scan databases,1,0.04770992366412214
+search open technical databases: whois,1,0.04770992366412214
+search open websites/domains,1,0.04770992366412214
+search open websites/domains: code repositories,1,0.04770992366412214
+search open websites/domains: search engines,1,0.04770992366412214
+search open websites/domains: social media,1,0.04770992366412214
+search victim-owned websites,1,0.04770992366412214
+system binary proxy execution: mmc,1,0.04770992366412214
+server software component: iis components,1,0.04770992366412214
+server software component: sql stored procedures,1,0.04770992366412214
+server software component: terminal services dll,1,0.04770992366412214
+server software component: transport agent,1,0.04770992366412214
+server software component: web shell,1,0.04770992366412214
+server software component: vsphere installation bundles,1,0.04770992366412214
+serverless execution,1,0.04770992366412214
+service stop,1,0.04770992366412214
+shared modules,1,0.04770992366412214
+server software component,1,0.04770992366412214
+remote services: remote desktop protocol,1,0.04770992366412214
+remote services: smb/windows admin shares,1,0.04770992366412214
+remote services: ssh,1,0.04770992366412214
+remote services: vnc,1,0.04770992366412214
+remote services: windows remote management,1,0.04770992366412214
+remote system discovery,1,0.04770992366412214
+replication through removable media,1,0.04770992366412214
+rogue domain controller,1,0.04770992366412214
+rootkit,1,0.04770992366412214
+search open technical databases: dns/passive dns,1,0.04770992366412214
+scheduled task/job: at,1,0.04770992366412214
+scheduled task/job: container orchestration job,1,0.04770992366412214
+scheduled task/job: cron,1,0.04770992366412214
+scheduled task/job: scheduled task,1,0.04770992366412214
+scheduled task/job: systemd timers,1,0.04770992366412214
+scheduled transfer,1,0.04770992366412214
+screen capture,1,0.04770992366412214
+search open technical databases,1,0.04770992366412214
+search open technical databases: cdns,1,0.04770992366412214
+scheduled task/job,1,0.04770992366412214
+steal or forge kerberos tickets: silver ticket,1,0.04770992366412214
+subvert trust controls,1,0.04770992366412214
+subvert trust controls: code signing,1,0.04770992366412214
+subvert trust controls: code signing policy modification,1,0.04770992366412214
+subvert trust controls: gatekeeper bypass,1,0.04770992366412214
+subvert trust controls: install root certificate,1,0.04770992366412214
+subvert trust controls: mark-of-the-web bypass,1,0.04770992366412214
+subvert trust controls: sip and trust provider hijacking,1,0.04770992366412214
+software deployment tools,1,0.04770992366412214
+supply chain compromise: compromise hardware supply chain,1,0.04770992366412214
+supply chain compromise: compromise software dependencies and development tools,1,0.04770992366412214
+supply chain compromise: compromise software supply chain,1,0.04770992366412214
+system binary proxy execution,1,0.04770992366412214
+system binary proxy execution: cmstp,1,0.04770992366412214
+system binary proxy execution: compiled html file,1,0.04770992366412214
+system binary proxy execution: control panel,1,0.04770992366412214
+system binary proxy execution: electron applications,1,0.04770992366412214
+system binary proxy execution: installutil,1,0.04770992366412214
+supply chain compromise,1,0.04770992366412214
+software discovery,1,0.04770992366412214
+software discovery: security software discovery,1,0.04770992366412214
+software extensions,1,0.04770992366412214
+software extensions: browser extensions,1,0.04770992366412214
+software extensions: ide extensions,1,0.04770992366412214
+stage capabilities,1,0.04770992366412214
+stage capabilities: drive-by target,1,0.04770992366412214
+stage capabilities: install digital certificate,1,0.04770992366412214
+stage capabilities: link target,1,0.04770992366412214
+steal or forge kerberos tickets: kerberoasting,1,0.04770992366412214
+stage capabilities: upload malware,1,0.04770992366412214
+stage capabilities: upload tool,1,0.04770992366412214
+steal application access token,1,0.04770992366412214
+steal web session cookie,1,0.04770992366412214
+steal or forge authentication certificates,1,0.04770992366412214
+steal or forge kerberos tickets,1,0.04770992366412214
+steal or forge kerberos tickets: as-rep roasting,1,0.04770992366412214
+steal or forge kerberos tickets: ccache files,1,0.04770992366412214
+steal or forge kerberos tickets: golden ticket,1,0.04770992366412214
+stage capabilities: seo poisoning,1,0.04770992366412214
+command and scripting interpreter: javascript,1,0.04770992366412214
+command and scripting interpreter: lua,1,0.04770992366412214
+command and scripting interpreter: network device cli,1,0.04770992366412214
+command and scripting interpreter: powershell,1,0.04770992366412214
+command and scripting interpreter: python,1,0.04770992366412214
+command and scripting interpreter: unix shell,1,0.04770992366412214
+command and scripting interpreter: visual basic,1,0.04770992366412214
+command and scripting interpreter: windows command shell,1,0.04770992366412214
+windows management instrumentation,1,0.04770992366412214
+compromise accounts,1,0.04770992366412214
+compromise accounts: cloud accounts,1,0.04770992366412214
+compromise accounts: email accounts,1,0.04770992366412214
+compromise accounts: social media accounts,1,0.04770992366412214
+compromise host software binary,1,0.04770992366412214
+compromise infrastructure,1,0.04770992366412214
+compromise infrastructure: botnet,1,0.04770992366412214
+compromise infrastructure: dns server,1,0.04770992366412214
+compromise infrastructure: domains,1,0.04770992366412214
+communication through removable media,1,0.04770992366412214
+boot or logon initialization scripts: logon script (windows),1,0.04770992366412214
+boot or logon initialization scripts: network logon script,1,0.04770992366412214
+boot or logon initialization scripts: rc scripts,1,0.04770992366412214
+boot or logon initialization scripts: startup items,1,0.04770992366412214
+browser information discovery,1,0.04770992366412214
+browser session hijacking,1,0.04770992366412214
+build image on host,1,0.04770992366412214
+clipboard data,1,0.04770992366412214
+command and scripting interpreter: hypervisor cli,1,0.04770992366412214
+cloud application integration,1,0.04770992366412214
+cloud infrastructure discovery,1,0.04770992366412214
+cloud service dashboard,1,0.04770992366412214
+cloud service discovery,1,0.04770992366412214
+cloud storage object discovery,1,0.04770992366412214
+command and scripting interpreter,1,0.04770992366412214
+command and scripting interpreter: applescript,1,0.04770992366412214
+command and scripting interpreter: autohotkey & autoit,1,0.04770992366412214
+command and scripting interpreter: cloud api,1,0.04770992366412214
+cloud administration command,1,0.04770992366412214
+credentials from password stores: securityd memory,1,0.04770992366412214
+credentials from password stores: windows credential manager,1,0.04770992366412214
+data destruction,1,0.04770992366412214
+data destruction: lifecycle-triggered deletion,1,0.04770992366412214
+data encoding,1,0.04770992366412214
+data encoding: non-standard encoding,1,0.04770992366412214
+data encoding: standard encoding,1,0.04770992366412214
+data encrypted for impact,1,0.04770992366412214
+compromise infrastructure: network devices,1,0.04770992366412214
+data manipulation: runtime data manipulation,1,0.04770992366412214
+data manipulation: stored data manipulation,1,0.04770992366412214
+data manipulation: transmitted data manipulation,1,0.04770992366412214
+data obfuscation,1,0.04770992366412214
+data obfuscation: junk data,1,0.04770992366412214
+data obfuscation: protocol or service impersonation,1,0.04770992366412214
+data obfuscation: steganography,1,0.04770992366412214
+data staged,1,0.04770992366412214
+data staged: local data staging,1,0.04770992366412214
+data manipulation,1,0.04770992366412214
+compromise infrastructure: server,1,0.04770992366412214
+compromise infrastructure: serverless,1,0.04770992366412214
+compromise infrastructure: virtual private server,1,0.04770992366412214
+compromise infrastructure: web services,1,0.04770992366412214
+container administration command,1,0.04770992366412214
+create account,1,0.04770992366412214
+create account: cloud account,1,0.04770992366412214
+create account: domain account,1,0.04770992366412214
+create account: local account,1,0.04770992366412214
+credentials from password stores: password managers,1,0.04770992366412214
+create or modify system process: container service,1,0.04770992366412214
+create or modify system process: launch agent,1,0.04770992366412214
+create or modify system process: launch daemon,1,0.04770992366412214
+create or modify system process: systemd service,1,0.04770992366412214
+create or modify system process: windows service,1,0.04770992366412214
+credentials from password stores,1,0.04770992366412214
+credentials from password stores: cloud secrets management stores,1,0.04770992366412214
+credentials from password stores: credentials from web browsers,1,0.04770992366412214
+credentials from password stores: keychain,1,0.04770992366412214
+create or modify system process,1,0.04770992366412214
+account manipulation: additional cloud roles,1,0.04770992366412214
+account manipulation: additional container cluster roles,1,0.04770992366412214
+account manipulation: additional email delegate permissions,1,0.04770992366412214
+account manipulation: additional local or domain groups,1,0.04770992366412214
+account manipulation: device registration,1,0.04770992366412214
+account manipulation: ssh authorized keys,1,0.04770992366412214
+acquire access,1,0.04770992366412214
+acquire infrastructure,1,0.04770992366412214
+boot or logon initialization scripts: login hook,1,0.04770992366412214
+acquire infrastructure: dns server,1,0.04770992366412214
+acquire infrastructure: domains,1,0.04770992366412214
+acquire infrastructure: malvertising,1,0.04770992366412214
+acquire infrastructure: server,1,0.04770992366412214
+acquire infrastructure: serverless,1,0.04770992366412214
+acquire infrastructure: virtual private server,1,0.04770992366412214
+acquire infrastructure: web services,1,0.04770992366412214
+active scanning,1,0.04770992366412214
+active scanning: scanning ip blocks,1,0.04770992366412214
+acquire infrastructure: botnet,1,0.04770992366412214
+abuse elevation control mechanism,1,0.04770992366412214
+abuse elevation control mechanism: bypass user account control,1,0.04770992366412214
+abuse elevation control mechanism: elevated execution with prompt,1,0.04770992366412214
+abuse elevation control mechanism: setuid and setgid,1,0.04770992366412214
+abuse elevation control mechanism: sudo and sudo caching,1,0.04770992366412214
+abuse elevation control mechanism: tcc manipulation,1,0.04770992366412214
+abuse elevation control mechanism: temporary elevated cloud access,1,0.04770992366412214
+access token manipulation,1,0.04770992366412214
+access token manipulation: create process with token,1,0.04770992366412214
+account manipulation: additional cloud credentials,1,0.04770992366412214
+access token manipulation: parent pid spoofing,1,0.04770992366412214
+access token manipulation: token impersonation/theft,1,0.04770992366412214
+account access removal,1,0.04770992366412214
+account discovery,1,0.04770992366412214
+account discovery: cloud account,1,0.04770992366412214
+account discovery: domain account,1,0.04770992366412214
+account discovery: email account,1,0.04770992366412214
+account discovery: local account,1,0.04770992366412214
+account manipulation,1,0.04770992366412214
+access token manipulation: make and impersonate token,1,0.04770992366412214
+automated exfiltration: traffic duplication,1,0.04770992366412214
+bits jobs,1,0.04770992366412214
+boot or logon autostart execution,1,0.04770992366412214
+boot or logon autostart execution: active setup,1,0.04770992366412214
+boot or logon autostart execution: authentication package,1,0.04770992366412214
+boot or logon autostart execution: kernel modules and extensions,1,0.04770992366412214
+boot or logon autostart execution: lsass driver,1,0.04770992366412214
+boot or logon autostart execution: login items,1,0.04770992366412214
+active scanning: vulnerability scanning,1,0.04770992366412214
+boot or logon autostart execution: print processors,1,0.04770992366412214
+boot or logon autostart execution: re-opened applications,1,0.04770992366412214
+boot or logon autostart execution: registry run keys / startup folder,1,0.04770992366412214
+boot or logon autostart execution: security support provider,1,0.04770992366412214
+boot or logon autostart execution: shortcut modification,1,0.04770992366412214
+boot or logon autostart execution: time providers,1,0.04770992366412214
+boot or logon autostart execution: winlogon helper dll,1,0.04770992366412214
+boot or logon autostart execution: xdg autostart entries,1,0.04770992366412214
+boot or logon initialization scripts,1,0.04770992366412214
+boot or logon autostart execution: port monitors,1,0.04770992366412214
+active scanning: wordlist scanning,1,0.04770992366412214
+adversary-in-the-middle,1,0.04770992366412214
+adversary-in-the-middle: arp cache poisoning,1,0.04770992366412214
+adversary-in-the-middle: dhcp spoofing,1,0.04770992366412214
+adversary-in-the-middle: evil twin,1,0.04770992366412214
+adversary-in-the-middle: llmnr/nbt-ns poisoning and smb relay,1,0.04770992366412214
+application layer protocol,1,0.04770992366412214
+application layer protocol: dns,1,0.04770992366412214
+application layer protocol: file transfer protocols,1,0.04770992366412214
+automated exfiltration,1,0.04770992366412214
+application layer protocol: publish/subscribe protocols,1,0.04770992366412214
+application layer protocol: web protocols,1,0.04770992366412214
+application window discovery,1,0.04770992366412214
+archive collected data,1,0.04770992366412214
+archive collected data: archive via custom method,1,0.04770992366412214
+archive collected data: archive via library,1,0.04770992366412214
+archive collected data: archive via utility,1,0.04770992366412214
+audio capture,1,0.04770992366412214
+automated collection,1,0.04770992366412214
+application layer protocol: mail protocols,1,0.04770992366412214
+file and directory permissions modification,1,0.04770992366412214
+file and directory permissions modification: linux and mac file and directory permissions modification,1,0.04770992366412214
+file and directory permissions modification: windows file and directory permissions modification,1,0.04770992366412214
+financial theft,1,0.04770992366412214
+firmware corruption,1,0.04770992366412214
+forge web credentials,1,0.04770992366412214
+forge web credentials: saml tokens,1,0.04770992366412214
+forge web credentials: web cookies,1,0.04770992366412214
+data staged: remote data staging,1,0.04770992366412214
+gather victim host information: client configurations,1,0.04770992366412214
+gather victim host information: firmware,1,0.04770992366412214
+gather victim host information: hardware,1,0.04770992366412214
+gather victim host information: software,1,0.04770992366412214
+gather victim identity information,1,0.04770992366412214
+gather victim identity information: credentials,1,0.04770992366412214
+gather victim identity information: email addresses,1,0.04770992366412214
+gather victim identity information: employee names,1,0.04770992366412214
+gather victim network information,1,0.04770992366412214
+gather victim host information,1,0.04770992366412214
+exfiltration over alternative protocol: exfiltration over unencrypted non-c2 protocol,1,0.04770992366412214
+exfiltration over c2 channel,1,0.04770992366412214
+exfiltration over other network medium,1,0.04770992366412214
+exfiltration over other network medium: exfiltration over bluetooth,1,0.04770992366412214
+exfiltration over physical medium,1,0.04770992366412214
+exfiltration over physical medium: exfiltration over usb,1,0.04770992366412214
+exfiltration over web service,1,0.04770992366412214
+exfiltration over web service: exfiltration over webhook,1,0.04770992366412214
+exfiltration over web service: exfiltration to cloud storage,1,0.04770992366412214
+file and directory discovery,1,0.04770992366412214
+exfiltration over web service: exfiltration to text storage sites,1,0.04770992366412214
+exploit public-facing application,1,0.04770992366412214
+exploitation for client execution,1,0.04770992366412214
+exploitation for credential access,1,0.04770992366412214
+exploitation for defense evasion,1,0.04770992366412214
+exploitation for privilege escalation,1,0.04770992366412214
+exploitation of remote services,1,0.04770992366412214
+external remote services,1,0.04770992366412214
+fallback channels,1,0.04770992366412214
+exfiltration over web service: exfiltration to code repository,1,0.04770992366412214
+hide artifacts: hidden window,1,0.04770992366412214
+hide artifacts: ignore process interrupts,1,0.04770992366412214
+hide artifacts: ntfs file attributes,1,0.04770992366412214
+hide artifacts: process argument spoofing,1,0.04770992366412214
+hide artifacts: run virtual instance,1,0.04770992366412214
+hide artifacts: vba stomping,1,0.04770992366412214
+hide infrastructure,1,0.04770992366412214
+hijack execution flow,1,0.04770992366412214
+gather victim network information: dns,1,0.04770992366412214
+hijack execution flow: cor_profiler,1,0.04770992366412214
+hijack execution flow: dll,1,0.04770992366412214
+hijack execution flow: dylib hijacking,1,0.04770992366412214
+hijack execution flow: dynamic linker hijacking,1,0.04770992366412214
+hijack execution flow: executable installer file permissions weakness,1,0.04770992366412214
+hijack execution flow: kernelcallbacktable,1,0.04770992366412214
+hijack execution flow: services file permissions weakness,1,0.04770992366412214
+hijack execution flow: services registry permissions weakness,1,0.04770992366412214
+impair defenses,1,0.04770992366412214
+hijack execution flow: appdomainmanager,1,0.04770992366412214
+gather victim network information: domain properties,1,0.04770992366412214
+gather victim network information: ip addresses,1,0.04770992366412214
+gather victim network information: network security appliances,1,0.04770992366412214
+gather victim network information: network topology,1,0.04770992366412214
+gather victim network information: network trust dependencies,1,0.04770992366412214
+gather victim org information,1,0.04770992366412214
+gather victim org information: business relationships,1,0.04770992366412214
+gather victim org information: determine physical locations,1,0.04770992366412214
+gather victim org information: identify business tempo,1,0.04770992366412214
+hide artifacts: hidden users,1,0.04770992366412214
+group policy discovery,1,0.04770992366412214
+hardware additions,1,0.04770992366412214
+hide artifacts,1,0.04770992366412214
+hide artifacts: bind mounts,1,0.04770992366412214
+hide artifacts: email hiding rules,1,0.04770992366412214
+hide artifacts: extended attributes,1,0.04770992366412214
+hide artifacts: file/path exclusions,1,0.04770992366412214
+hide artifacts: hidden file system,1,0.04770992366412214
+hide artifacts: hidden files and directories,1,0.04770992366412214
+gather victim org information: identify roles,1,0.04770992366412214
+develop capabilities,1,0.04770992366412214
+develop capabilities: code signing certificates,1,0.04770992366412214
+develop capabilities: digital certificates,1,0.04770992366412214
+develop capabilities: exploits,1,0.04770992366412214
+develop capabilities: malware,1,0.04770992366412214
+device driver discovery,1,0.04770992366412214
+direct volume access,1,0.04770992366412214
+disk wipe,1,0.04770992366412214
+exfiltration over alternative protocol: exfiltration over symmetric encrypted non-c2 protocol,1,0.04770992366412214
+disk wipe: disk structure wipe,1,0.04770992366412214
+domain trust discovery,1,0.04770992366412214
+domain or tenant policy modification,1,0.04770992366412214
+domain or tenant policy modification: group policy modification,1,0.04770992366412214
+domain or tenant policy modification: trust modification,1,0.04770992366412214
+drive-by compromise,1,0.04770992366412214
+dynamic resolution,1,0.04770992366412214
+dynamic resolution: dns calculation,1,0.04770992366412214
+dynamic resolution: domain generation algorithms,1,0.04770992366412214
+disk wipe: disk content wipe,1,0.04770992366412214
+data transfer size limits,1,0.04770992366412214
+data from cloud storage,1,0.04770992366412214
+data from configuration repository,1,0.04770992366412214
+data from configuration repository: network device configuration dump,1,0.04770992366412214
+data from configuration repository: snmp (mib dump),1,0.04770992366412214
+data from information repositories,1,0.04770992366412214
+data from information repositories: code repositories,1,0.04770992366412214
+data from information repositories: confluence,1,0.04770992366412214
+data from information repositories: customer relationship management software,1,0.04770992366412214
+deploy container,1,0.04770992366412214
+data from information repositories: sharepoint,1,0.04770992366412214
+data from local system,1,0.04770992366412214
+data from network shared drive,1,0.04770992366412214
+data from removable media,1,0.04770992366412214
+debugger evasion,1,0.04770992366412214
+defacement,1,0.04770992366412214
+defacement: external defacement,1,0.04770992366412214
+defacement: internal defacement,1,0.04770992366412214
+deobfuscate/decode files or information,1,0.04770992366412214
+data from information repositories: messaging applications,1,0.04770992366412214
+event triggered execution: change default file association,1,0.04770992366412214
+event triggered execution: component object model hijacking,1,0.04770992366412214
+event triggered execution: emond,1,0.04770992366412214
+event triggered execution: installer packages,1,0.04770992366412214
+event triggered execution: lc_load_dylib addition,1,0.04770992366412214
+event triggered execution: netsh helper dll,1,0.04770992366412214
+event triggered execution: powershell profile,1,0.04770992366412214
+event triggered execution: screensaver,1,0.04770992366412214
+dynamic resolution: fast flux dns,1,0.04770992366412214
+event triggered execution: udev rules,1,0.04770992366412214
+event triggered execution: unix shell configuration modification,1,0.04770992366412214
+event triggered execution: windows management instrumentation event subscription,1,0.04770992366412214
+exclusive control,1,0.04770992366412214
+execution guardrails,1,0.04770992366412214
+execution guardrails: environmental keying,1,0.04770992366412214
+execution guardrails: mutual exclusion,1,0.04770992366412214
+exfiltration over alternative protocol,1,0.04770992366412214
+exfiltration over alternative protocol: exfiltration over asymmetric encrypted non-c2 protocol,1,0.04770992366412214
+event triggered execution: trap,1,0.04770992366412214
+esxi administration command,1,0.04770992366412214
+email bombing,1,0.04770992366412214
+email collection,1,0.04770992366412214
+email collection: email forwarding rule,1,0.04770992366412214
+email collection: local email collection,1,0.04770992366412214
+email collection: remote email collection,1,0.04770992366412214
+email spoofing,1,0.04770992366412214
+encrypted channel,1,0.04770992366412214
+encrypted channel: asymmetric cryptography,1,0.04770992366412214
+event triggered execution: application shimming,1,0.04770992366412214
+escape to host,1,0.04770992366412214
+establish accounts,1,0.04770992366412214
+establish accounts: cloud accounts,1,0.04770992366412214
+establish accounts: email accounts,1,0.04770992366412214
+establish accounts: social media accounts,1,0.04770992366412214
+event triggered execution,1,0.04770992366412214
+event triggered execution: accessibility features,1,0.04770992366412214
+event triggered execution: appcert dlls,1,0.04770992366412214
+event triggered execution: appinit dlls,1,0.04770992366412214
+encrypted channel: symmetric cryptography,1,0.04770992366412214
