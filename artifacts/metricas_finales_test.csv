@@ -1,2 +1,0 @@
-﻿modelo,accuracy,f1_macro_3,precision_macro_3,recall_macro_3,f1_weighted,f1_macro_clases_presentes,clases_con_soporte,ordinal_mae_niveles,errores_mas_de_un_nivel,subestimacion,kappa_cuadratico,log_loss,brier_multiclase,top3_accuracy
-XGBoost|ROS=True|v=1,0.72544080604534,0.5463608394563196,0.5508870214752567,0.5547619047619047,0.7217453422494792,0.5463608394563196,3,0.27455919395465994,0.0,0.08564231738035265,0.5084903624447701,0.5902432486307994,0.3864713036073526,1.0
