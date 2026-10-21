@@ -1,0 +1,91 @@
+{
+  "name": "CyberScope",
+  "author": "Bryan Madrid",
+  "institution": "Universidad Andrés Bello",
+  "features": [
+    "Vendor",
+    "Platform",
+    "Product_normalized",
+    "risk_family_6"
+  ],
+  "risk_families": [
+    "Code Execution & Injection",
+    "Identity, Access & Persistence",
+    "Memory & Software Safety",
+    "Reconnaissance & Attack Operations",
+    "Data Collection & Exfiltration",
+    "Impact & Availability"
+  ],
+  "taxonomy": "Seis macrofamilias; reglas independientes de Severity_clean",
+  "scope": "Estimación experimental de etiquetas de referencia de CISA y MITRE.",
+  "version": "4.0.0",
+  "status": "Prototipo de investigación",
+  "severity_order": [
+    "low",
+    "medium",
+    "high"
+  ],
+  "dataset_rows": 1984,
+  "dataset_columns": 27,
+  "selection": {
+    "candidate": "XGBoost|ROS=True|v=1",
+    "features": [
+      "Vendor",
+      "Platform",
+      "Product_normalized",
+      "risk_family_6"
+    ],
+    "test_start": "2024-01-10",
+    "criterio": "Media F1 macro de tres clases en cuatro folds temporales con purga por entidad sobre desarrollo",
+    "n_dev": 1520,
+    "n_test": 397,
+    "cv_f1_macro_3": 0.6807044022860032
+  },
+  "severity_mapping": {
+    "low": "low",
+    "low/medium": "low",
+    "medium": "medium",
+    "medium/high": "medium",
+    "medium/hight": "medium",
+    "high": "high",
+    "critical": "high"
+  },
+  "evaluation": [
+    {
+      "accuracy": 0.72544080604534,
+      "f1_macro_3": 0.5463608394563196,
+      "precision_macro_3": 0.5508870214752567,
+      "recall_macro_3": 0.5547619047619047,
+      "f1_weighted": 0.7217453422494792,
+      "f1_macro_clases_presentes": 0.5463608394563196,
+      "clases_con_soporte": 3,
+      "ordinal_mae_niveles": 0.27455919395465994,
+      "errores_mas_de_un_nivel": 0.0,
+      "subestimacion": 0.08564231738035265,
+      "kappa_cuadratico": 0.5084903624447701,
+      "log_loss": 0.5902432486307994,
+      "brier_multiclase": 0.3864713036073526,
+      "top3_accuracy": 1.0,
+      "modelo": "XGBoost|ROS=True|v=1",
+      "escenario": "Macrofamilia y contexto"
+    }
+  ],
+  "cv": {
+    "modelo": "XGBoost|ROS=True|v=1",
+    "predictoras": "Vendor, Platform, Product_normalized, risk_family_6",
+    "accuracy_cv_media": 0.7633985879332478,
+    "f1_macro_3_cv_media": 0.6807044022860032,
+    "accuracy_test": 0.72544080604534,
+    "f1_macro_3_test": 0.5463608394563196,
+    "n_desarrollo": 1520,
+    "n_test": 397
+  },
+  "limits": [
+    "Las etiquetas de referencia no equivalen automáticamente a CVSS ni al riesgo del negocio.",
+    "La clase low tiene solo cinco registros en el test; el modelo acertó uno.",
+    "high agrupa high y critical: el modelo ya no distingue criticidad extrema.",
+    "El contexto puede reflejar la procedencia CISA o MITRE.",
+    "Las fechas disponibles no se verificaron como fechas reales de incidentes.",
+    "El test ya se había inspeccionado antes de reagrupar las clases; se requiere una cohorte nueva para confirmar generalización."
+  ]
+}

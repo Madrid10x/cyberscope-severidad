@@ -1,0 +1,4 @@
+﻿clase,n_test,aciertos_disponibles,errores_disponibles,aciertos_elegidos,errores_elegidos
+low,5,1,4,1,1
+medium,196,120,76,3,1
+high,196,167,29,4,2
