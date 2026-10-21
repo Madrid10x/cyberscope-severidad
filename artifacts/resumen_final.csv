@@ -1,2 +1,0 @@
-﻿modelo,predictoras,accuracy_cv_media,f1_macro_3_cv_media,accuracy_test,f1_macro_3_test,n_desarrollo,n_test
-XGBoost|ROS=True|v=1,"Vendor, Platform, Product_normalized, risk_family_6",0.7633985879332478,0.6807044022860032,0.72544080604534,0.5463608394563196,1520,397
