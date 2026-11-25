@@ -1,0 +1,16 @@
+﻿particion,modo,clase,casos_reales,filas_tras_balanceo,copias_agregadas
+desarrollo_completo,ros_completo,low,99,775,676
+desarrollo_completo,ros_completo,medium,775,775,0
+desarrollo_completo,ros_completo,high,646,775,129
+fold_1_entrenamiento,ros_completo,low,94,396,302
+fold_1_entrenamiento,ros_completo,medium,396,396,0
+fold_1_entrenamiento,ros_completo,high,74,396,322
+fold_2_entrenamiento,ros_completo,low,94,508,414
+fold_2_entrenamiento,ros_completo,medium,508,508,0
+fold_2_entrenamiento,ros_completo,high,266,508,242
+fold_3_entrenamiento,ros_completo,low,95,584,489
+fold_3_entrenamiento,ros_completo,medium,584,584,0
+fold_3_entrenamiento,ros_completo,high,409,584,175
+fold_4_entrenamiento,ros_completo,low,97,691,594
+fold_4_entrenamiento,ros_completo,medium,691,691,0
+fold_4_entrenamiento,ros_completo,high,545,691,146

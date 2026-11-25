@@ -1,0 +1,58 @@
+﻿type_refinement_status,attack_type_clean,registros
+asignado_por_nombre,HTTP request smuggling,1
+asignado_por_nombre,HTTP tunneling,2
+asignado_por_nombre,access control error,22
+asignado_por_nombre,alternate channel exposure,1
+asignado_por_nombre,alternate path protection error,1
+asignado_por_nombre,arbitrary file deletion,1
+asignado_por_nombre,arbitrary file read,5
+asignado_por_nombre,arbitrary memory write,1
+asignado_por_nombre,authorization error,8
+asignado_por_nombre,certificate validation error,1
+asignado_por_nombre,cleartext credential storage,1
+asignado_por_nombre,code integrity failure,1
+asignado_por_nombre,command execution,7
+asignado_por_nombre,credential disclosure and spoofing,2
+asignado_por_nombre,cryptographic weakness,2
+asignado_por_nombre,default credentials,2
+asignado_por_nombre,default permissions error,4
+asignado_por_nombre,denial of service,18
+asignado_por_nombre,double free,2
+asignado_por_nombre,error handling failure,1
+asignado_por_nombre,external parameter modification,3
+asignado_por_nombre,external path control,1
+asignado_por_nombre,file upload,20
+asignado_por_nombre,format string,2
+asignado_por_nombre,hard-coded credentials,2
+asignado_por_nombre,hard-coded cryptographic key,1
+asignado_por_nombre,hidden functionality,1
+asignado_por_nombre,information disclosure,20
+asignado_por_nombre,input validation error,35
+asignado_por_nombre,insecure direct object reference,1
+asignado_por_nombre,integer underflow,1
+asignado_por_nombre,isolation failure,1
+asignado_por_nombre,link resolution error,3
+asignado_por_nombre,malicious code insertion,3
+asignado_por_nombre,memory corruption,9
+asignado_por_nombre,memory leak,1
+asignado_por_nombre,neutralization error,2
+asignado_por_nombre,out-of-bounds read,8
+asignado_por_nombre,out-of-bounds write,3
+asignado_por_nombre,output escaping error,1
+asignado_por_nombre,ownership management error,1
+asignado_por_nombre,path traversal,1
+asignado_por_nombre,pointer handling error,3
+asignado_por_nombre,privilege management error,9
+asignado_por_nombre,race condition,8
+asignado_por_nombre,sandbox escape,2
+asignado_por_nombre,security mechanism failure,2
+asignado_por_nombre,sensitive logging,1
+asignado_por_nombre,server-side request forgery,9
+asignado_por_nombre,spoofing,6
+asignado_por_nombre,template injection,1
+asignado_por_nombre,type confusion,2
+asignado_por_nombre,uncontrolled search path,3
+asignado_por_nombre,uninitialized memory,2
+asignado_por_nombre,unsafe deserialization,5
+asignado_por_nombre,use-after-free,5
+pendiente_evidencia,__TIPO_PENDIENTE_REVISION__,16

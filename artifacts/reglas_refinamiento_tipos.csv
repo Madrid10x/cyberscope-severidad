@@ -1,0 +1,57 @@
+﻿regla,tipo,subtipo,patron_nombre
+T01,server-side request forgery,ssrf,server[ -]side request forgery|\bssrf\b
+T02,unsafe deserialization,untrusted data deserialization,deserialization of untrusted data|insecure deserialization|java deserialization
+T03,template injection,template engine neutralization,improper neutralization of special elements used in a template engine
+T04,file upload,unrestricted or unauthenticated upload,(?:unrestricted|unrestrictive|un-restricted|unauthenticated|arbitrary|dangerous file type|configuration)[ -](?:file[ -])?upload|unrestricted upload of file|unrestrictive upload of file|un-restricted upload of file|\bfile upload\b|\bupload of file\b
+T05,command execution,command execution,(?:remote )?command execution
+T06,code integrity failure,download without integrity check,download of code without integrity check
+T07,malicious code insertion,embedded malicious code,embedded malicious code
+T08,out-of-bounds read,out-of-bounds read,out-of-bounds read
+T09,out-of-bounds write,out-of-bounds write,out-of-bounds write
+T10,use-after-free,use-after-free,use-after-free
+T11,double free,double free,double free
+T12,integer underflow,integer underflow,integer underflow
+T13,type confusion,type confusion,type confusion
+T14,pointer handling error,unsafe pointer operation,untrusted pointer dereference|out-of-range pointer offset
+T15,uninitialized memory,uninitialized memory,uninitialized memory|memory initialization
+T16,memory corruption,memory or object record corruption,memory corruption|object record corruption
+T17,arbitrary memory write,arbitrary write,arbitrary write
+T18,memory leak,memory leak,memory leak
+T19,race condition,race condition or TOCTOU,time-of-check time-of-use|\btoctou\b|race condition
+T20,format string,format string,format string
+T21,denial of service,availability loss,denial-of-service|denial of service
+T22,path traversal,path traversal,directory traversal|path traversal|path transversal
+T23,link resolution error,link following or resolution,link following|improper link resolution
+T24,external path control,external file name or path control,external control of file name or path
+T25,uncontrolled search path,search path or DLL hijacking,uncontrolled search path|dll hijacking|dll side loading
+T26,arbitrary file read,file read or download,(?:arbitrary |pre-authorization arbitrary )?file read|arbitrary file download|\bfile download\b
+T27,arbitrary file deletion,file deletion,arbitrary file deletion
+T28,sensitive logging,sensitive information in logs,insertion of sensitive information into log file
+T29,information disclosure,disclosure or exposed core dump,information disclosure|file disclosure|exposure of core dump file
+T30,credential disclosure and spoofing,NTLM hash disclosure,ntlm(?:v2)? hash disclosure spoofing
+T31,hard-coded cryptographic key,hard-coded cryptographic key,hard-coded cryptographic key
+T32,hard-coded credentials,hard-coded or static credentials,hard-coded credentials|static credential
+T33,default credentials,insecure default password,insecure default password
+T34,cleartext credential storage,cleartext password storage,cleartext storage of a password
+T35,cryptographic weakness,insufficient encryption strength,inadequate encryption strength|cryptographic weakness
+T36,certificate validation error,certificate validation,improper certificate validation
+T37,privilege management error,privilege management,improper privilege management
+T38,authorization error,incorrect or improper authorization,incorrect authorization|improper authorization
+T39,access control error,missing or insufficient access control,improper access control|insufficient access control|unauthorized access|\baccess control vulnerability\b
+T40,default permissions error,incorrect default permissions,incorrect default (?:file )?permissions
+T41,ownership management error,ownership management,improper ownership management
+T42,sandbox escape,sandbox escape,sandbox escape
+T43,isolation failure,isolation or compartmentalization,improper isolation or compartmentalization
+T44,alternate channel exposure,unprotected alternate channel,unprotected alternate channel
+T45,alternate path protection error,alternate path protection,improper protection of alternate path
+T46,security mechanism failure,protection mechanism failure,protection mechanism failure
+T47,spoofing,spoofing,\bspoofing\b
+T48,HTTP request smuggling,HTTP request smuggling,http request smuggling
+T49,HTTP tunneling,HTTP tunneling,http tunneling
+T50,hidden functionality,hidden functionality,hidden functionality
+T51,external parameter modification,external variable or parameter control,php external variable modification|external control of assumed-immutable web parameter
+T52,insecure direct object reference,direct object reference,insecure direct object reference
+T53,input validation error,input or content validation,improper input validation|improper validation|insufficient data validation|insufficient input validation|\bdata validation\b|invalid input|incomplete list of disallowed inputs|content validation escape
+T54,output escaping error,output escaping,improper escaping of output
+T55,neutralization error,null byte or unspecified neutralization,improper neutralization of null byte or nul character|improper neutralization
+T56,error handling failure,error condition without action,detection of error condition without action

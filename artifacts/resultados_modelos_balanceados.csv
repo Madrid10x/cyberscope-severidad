@@ -1,0 +1,12 @@
+﻿candidate,modelo,ros,variante,folds,f1_macro_cv,accuracy_cv,recall_low_media_folds,precision_low_media_folds,f1_low_media_folds,low_observaciones_validacion
+XGBoost|balanceo=ros_completo|v=1,XGBoost,ros_completo,1,4,0.6807044022860032,0.7633985879332478,0.75,0.5555555555555556,0.5909090909090909,5
+Logistic_Regression|balanceo=ros_completo|v=1,Logistic_Regression,ros_completo,1,4,0.6501432688505705,0.7004856339198067,0.75,0.5555555555555556,0.5909090909090909,5
+Logistic_Regression|balanceo=ros_completo|v=2,Logistic_Regression,ros_completo,2,4,0.6501331082005182,0.697035698104659,0.75,0.5555555555555556,0.5909090909090909,5
+MLP|balanceo=ros_completo|v=1,MLP,ros_completo,1,4,0.64113521877486,0.6765248621913464,0.75,0.5454545454545454,0.5769230769230769,5
+Extra_Trees|balanceo=ros_completo|v=2,Extra_Trees,ros_completo,2,4,0.566273126514564,0.70064306210289,0.75,0.22274436090225563,0.32539682539682535,5
+Random_Forest|balanceo=ros_completo|v=2,Random_Forest,ros_completo,2,4,0.5371875291059541,0.6970478338960745,0.75,0.2113095238095238,0.3101449275362319,5
+Random_Forest|balanceo=ros_completo|v=1,Random_Forest,ros_completo,1,4,0.4896622903889476,0.6570765822375163,0.75,0.20436507936507936,0.30105401844532276,5
+BernoulliNB|balanceo=ros_completo|v=2,BernoulliNB,ros_completo,2,4,0.4762945410890121,0.6407259630424699,0.75,0.23464912280701755,0.3392857142857143,5
+Linear_SVC_temporal|balanceo=ros_completo|v=1,Linear_SVC_temporal,ros_completo,1,4,0.4609762330033787,0.6004422147549648,0.25,0.25,0.25,5
+BernoulliNB|balanceo=ros_completo|v=1,BernoulliNB,ros_completo,1,4,0.46017921628409303,0.6321843885179232,0.75,0.22274436090225563,0.32539682539682535,5
+Extra_Trees|balanceo=ros_completo|v=1,Extra_Trees,ros_completo,1,4,0.4586387521124017,0.6375747025382682,0.75,0.2138157894736842,0.3142857142857143,5

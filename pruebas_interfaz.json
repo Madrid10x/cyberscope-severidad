@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Inicio",
+    "Análisis individual",
+    "Análisis por lotes",
+    "Evidencia del modelo",
+    "Entrenamiento balanceado",
+    "Test equilibrado con casos reales",
+    "Test original completo",
+    "Filtro pendientes de tipo",
+    "Análisis individual y PDF",
+    "LIME con gráfico"
+  ],
+  "estado": "CORRECTO"
+}
